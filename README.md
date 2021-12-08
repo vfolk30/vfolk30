@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @vfolk30
+- 👀 I’m interested in kubernetes,linux and cloud ...
+- 🌱 I’m currently learning terraform and k8s operator...
+- 📫 How to reach me ...
+
+<!---
+vfolk30/vfolk30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
